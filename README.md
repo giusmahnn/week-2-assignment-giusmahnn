@@ -23,7 +23,7 @@ Scenario: Imagine you've diligently tracked your expenses using the Expense Trac
 1. Open MySQL WorkBench or any SQL Management Tool and Import the file/database
 2. Copy the code in week2.txt and run it into MySQL Workbench
 3. Write SQL scripts to answer all questions below.
-4. Submit your document by uploading or pushing your document through onto this repo
+4. Submit your document by uploading your document through onto this repo
 
 
 ## Part 1: Retrieving Data with SELECT (30 minutes)
